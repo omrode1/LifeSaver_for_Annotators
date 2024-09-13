@@ -1,4 +1,4 @@
-###Lifesaver for annotators 
+# Lifesaver for annotators 
 
 This script is a lifesaver for annotators who are working on a project where they have to annotate a lot of images. This script will help you to annotate images in a faster way.
 
